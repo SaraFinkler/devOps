@@ -78,4 +78,4 @@ jobs:
       uses: docker/build-push-action@v3
       with:
         push: true
-        tags: registry.heroku.com/app-trabalho-crescer-devops/web:latest
+        tags: registry.heroku.com/pipeline-sara/web:latest
